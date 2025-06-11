@@ -1,4 +1,4 @@
-##Adidas Sales Performance Dashboard Using Power BI
+Adidas Sales Performance Dashboard Using Power BI
 
 
 📊 Project Description
