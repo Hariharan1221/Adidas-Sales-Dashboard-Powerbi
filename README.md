@@ -1,29 +1,49 @@
+Adidas Sales Performance Dashboard Using Power BI
+📊 Project Description
+This project presents an interactive Power BI dashboard that visualizes Adidas sales data. It enables stakeholders to analyze sales trends, product performance, and geographic distribution, supporting data-driven business decisions.
+🎯 Project Objective
+To create a dynamic sales dashboard that provides key insights into Adidas's sales and profitability metrics across various product categories and regions. This helps in monitoring performance, optimizing marketing strategies, and identifying business growth opportunities.
+📂 Dataset
+The dataset includes the following fields:
 
-Adidas Sales Dashboard - Power BI Project
-Project Description
-This project showcases an interactive Power BI dashboard for Adidas sales data. The dashboard provides a comprehensive overview of sales performance across various dimensions such as product, region, and time. It is designed for stakeholders to quickly identify trends, track key performance indicators (KPIs), and make data-driven decisions.
-Project Objective
-The main objective of this project is to analyze Adidas sales data to gain insights into revenue generation, product performance, and regional sales distribution. This helps in making informed business decisions, optimizing inventory, and identifying growth opportunities.
-Dataset
-The dataset used in this project includes the following fields:
-- Order ID
-- Date
-- Product Category
-- Sub-Category
-- Units Sold
-- Unit Price
-- Total Sales
-- Region
-- Country
-- Customer Segment
-- Sales Channel
-- Profit
-Key Performance Indicators (KPIs)
-The dashboard includes the following KPIs to monitor business performance:
-- Total Sales
-- Total Profit
-- Profit Margin (%)
-- Units Sold
-- Average Order Value
-- Top Selling Products
-- Regional Sales Distribution
+Order ID
+
+Date
+
+Product Category
+
+Sub-Category
+
+Units Sold
+
+Unit Price
+
+Total Sales
+
+Region
+
+Country
+
+Customer Segment
+
+Sales Channel
+
+Profit
+
+📌 Key Performance Indicators (KPIs)
+The dashboard tracks the following KPIs:
+
+Total Sales
+
+Total Profit
+
+Profit Margin (%)
+
+Units Sold
+
+Average Order Value
+
+Top Selling Products
+
+Regional Sales Distribution
+
