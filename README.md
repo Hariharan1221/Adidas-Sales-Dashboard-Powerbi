@@ -1,8 +1,15 @@
 Adidas Sales Performance Dashboard Using Power BI
+
+
 📊 Project Description
 This project presents an interactive Power BI dashboard that visualizes Adidas sales data. It enables stakeholders to analyze sales trends, product performance, and geographic distribution, supporting data-driven business decisions.
+
+
 🎯 Project Objective
 To create a dynamic sales dashboard that provides key insights into Adidas's sales and profitability metrics across various product categories and regions. This helps in monitoring performance, optimizing marketing strategies, and identifying business growth opportunities.
+
+
+
 📂 Dataset
 The dataset includes the following fields:
 
